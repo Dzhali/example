@@ -1,0 +1,8 @@
+Class B
+{
+	private int B;
+	public int getB
+	{
+		get{ return B;}
+	}
+}

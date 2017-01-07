@@ -1,0 +1,8 @@
+Class MyClass
+{
+	private int A;
+	public int getA
+	{
+		get{ return A;}
+	}
+}
