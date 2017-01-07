@@ -4,5 +4,10 @@ Class B
 	public int getB
 	{
 		get{ return B;}
+		void FuncB();
 	}
+	
+}
+void B::FuncB()
+{
 }
