@@ -5,4 +5,10 @@ Class MyClass
 	{
 		get{ return A;}
 	}
+	void Func();
+}
+
+void MyClass::Func()
+{
+
 }
